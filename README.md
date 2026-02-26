@@ -17,7 +17,7 @@ venv\Scripts\activate
  Instala REquirements:
 
 
-pip install requirements
+pip install-r requirements.txt
 
 
  Ejecuta la aplicación:
