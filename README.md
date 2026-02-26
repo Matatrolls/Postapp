@@ -28,7 +28,7 @@ python run.py
 
 
 Vieja y autocontenida
-python run appOld.py
+python appOld.py
 
 
 Abre tu navegador en:
