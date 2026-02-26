@@ -20,13 +20,18 @@ venv\Scripts\activate
 pip install-r requirements.txt
 
 
- Ejecuta la aplicación:
+Ejecuta la aplicación:
 
+Actual y completa
 
 python run.py
 
 
- Abre tu navegador en:
+Vieja y autocontenida
+python run appOld.py
+
+
+Abre tu navegador en:
 
 http://127.0.0.1:5000
 
